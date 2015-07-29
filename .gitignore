@@ -1,0 +1,10 @@
+bin
+.metadata
+build
+keyframetrajectory
+Data
+cmake_modules
+*~
+target/
+.DS_Store
+._*
